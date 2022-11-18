@@ -1,9 +1,12 @@
-a.germany {
-    font-family: "Comic Sans", 'Times New Roman', 'Times', 'serif';
+div.earlygame {
+    color:green;
 }
-#GERMANYLINK {
-    font-family: Arial, 'Times New Roman', 'Times', 'serif';
+div.midgame {
+    color:yellow;
 }
-a.italy {
-    font-family: 'crimson pro';
+div.lategame {
+    color:blue;
+}
+div.dontbuy {
+    color:red;
 }
